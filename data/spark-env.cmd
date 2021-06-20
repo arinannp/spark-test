@@ -1,0 +1,1 @@
+set PYSPARK_PYTHON=C:\Users\Admin\AppData\Local\Programs\Python\Python39\python
